@@ -2,9 +2,3 @@
 !UsrYacht/
 !UsrYacht/**
 !.gitignore
-
-.vs
-Release
-Debug
-obj
-[Bb]in
